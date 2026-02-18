@@ -8,7 +8,7 @@ Built as a personal hobby project.
 
 ## Features
 
-- Displays current **Title — Artist** in the macOS menu bar  
+- Displays current **Artist — Title** in the macOS menu bar  
 - Polls the Live365 API every 30 seconds  
 - Detects stale metadata and indicates when a song has ended but new data hasn’t arrived yet  
 - Built-in audio streaming (HLS with MP3 fallback)  
